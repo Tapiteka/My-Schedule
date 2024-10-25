@@ -1,0 +1,19 @@
+body {
+    background-image: url(otc-building.jpeg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1 {
+    color: white;
+    text-shadow: 6px 3px 12px #172a5e;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+table {
+    background-color: rgba(25, 105, 255, 0.9);
+    box-shadow: 5px 3px 15px #172a5e;
+    padding: 0px 20px 20px 20px;
+    margin: 0% 6% 0% 6%;
+}
