@@ -9,11 +9,39 @@ h1 {
     text-shadow: 6px 3px 12px #172a5e;
     text-align: center;
     margin-top: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 table {
     background-color: rgba(25, 105, 255, 0.9);
     box-shadow: 5px 3px 15px #172a5e;
-    padding: 0px 20px 20px 20px;
-    margin: 0% 6% 0% 6%;
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    padding: 0;
+    border-collapse: collapse;
+    
+}
+.table-title {
+    text-align: center;
+   
+    border-color: #172a5eca; 
+}
+h2 {
+    color: white;
+    text-shadow: 6px 3px 12px #172a5e;
+}
+th {
+    color: rgb(203, 203, 203);
+    background-color: #172a5eca;
+    border-color: #172a5eca; 
+    margin: 0;
+    padding: 10px 30px 10px 30px;
+    width: 10.25%;
+}
+td {
+    padding: 10px;
+    border: 1px solid #172a5eca;
+    color: rgb(203, 203, 203);
+    text-align: center;
+    text-shadow: 2px 1px 5px #172a5e;
 }
