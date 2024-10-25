@@ -26,9 +26,11 @@ table {
    
     border-color: #172a5eca; 
 }
-h2 {
+#title {
     color: white;
     text-shadow: 6px 3px 12px #172a5e;
+    font-size: 1.5rem;
+    padding: 30px;
 }
 th {
     color: rgb(203, 203, 203);
